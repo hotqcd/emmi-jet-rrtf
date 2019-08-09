@@ -1,5 +1,3 @@
 # emmi-jet-rrtf
 
-Repository for EMMI Jet RRTF
-
-Some documentation at [https://hotqcd.github.io/emmi-jet-rrtf/](https://hotqcd.github.io/emmi-jet-rrtf/)
+You might be looking for pages that moved to [https://emmi-jet-rrtf.github.io/web/](https://emmi-jet-rrtf.github.io/web/)
